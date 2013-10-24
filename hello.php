@@ -4,6 +4,6 @@
 	</head>
 	<body>
     <h1>Hello</h1>
-    <?php echo "My name is Mega is MecaMic";?>
+    <?php echo "This is version 3";?>
 	</body>
 </html>
